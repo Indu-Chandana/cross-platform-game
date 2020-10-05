@@ -1,0 +1,11 @@
+Bullet.o
+Enemy.o
+Game.o
+Health.o
+Player.o
+Score.o
+main.o
+qrc_res.o
+moc_Bullet.o
+moc_Enemy.o
+moc_Player.o
